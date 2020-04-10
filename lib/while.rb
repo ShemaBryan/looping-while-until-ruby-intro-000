@@ -8,4 +8,3 @@ levitation_force += 1
 break if levitation_force >= 10
    end
 end
-end
